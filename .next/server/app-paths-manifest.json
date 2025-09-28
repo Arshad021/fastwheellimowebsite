@@ -1,12 +1,4 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/services/events/page": "app/services/events/page.js",
-  "/services/night-out-ride-limousine/page": "app/services/night-out-ride-limousine/page.js",
-  "/page": "app/page.js",
-  "/services/roadshows/page": "app/services/roadshows/page.js",
-  "/about/page": "app/about/page.js",
-  "/locations/page": "app/locations/page.js",
-  "/services/airport-limousine/page": "app/services/airport-limousine/page.js",
-  "/services/point-to-point/page": "app/services/point-to-point/page.js",
-  "/services/corporate-travel/page": "app/services/corporate-travel/page.js"
+  "/page": "app/page.js"
 }
