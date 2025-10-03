@@ -6,7 +6,7 @@ export default function Page() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="/casinotable.jpg.webp"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/pexels-drew-rae-1871508-1.jpg"
           alt="Casino Limousine Service"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -27,7 +27,7 @@ export default function Page() {
         {/* Left Image */}
         <div className="rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="/casinotable.jpg.webp"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/casinotable.jpg"
             alt="Casino Night in a Limo"
             className="w-full h-full object-cover"
           />

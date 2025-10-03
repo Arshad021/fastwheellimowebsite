@@ -6,7 +6,7 @@ export default function About() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="/25e8973a-f359-41f5-a417-8649e89e4af6-1024x768.webp"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2024/07/Luxury-Airport-Transfer-Service-in-Miami-1.jpg"
           alt="About FastWheel Limo"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -27,7 +27,7 @@ export default function About() {
         {/* Left Image */}
         <div className="rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="/womens-drinking-768x550.jpg.webp"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/air.jpg"
             alt="Luxury Limo Ride"
             className="w-full h-full object-cover"
           />

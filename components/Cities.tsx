@@ -2,10 +2,10 @@ import Link from "next/link"
 
 export default function Cities(){
   const cities = [
-    { name: 'Boston', slug: 'boston', img: '/93544c_49132d877d114de0adef3300f1910bc6~mv2.avif' },
-    { name: 'New York', slug: 'new-york', img: '/photo-1541336032412-2048a678540d.avif' },
-    { name: 'Chicago', slug: 'chicago', img: '/photo-1596250410216-1ac77dc208e3.avif' },
-    { name: 'Miami', slug: 'miami', img: '/premium_photo-1670788667581-380bc0781811.avif' },
+    { name: 'Boston', slug: 'boston', img: 'https://plus.unsplash.com/premium_photo-1694475434235-12413ec38b3e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+    { name: 'New York', slug: 'new-york', img: 'https://images.unsplash.com/photo-1541336032412-2048a678540d?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+    { name: 'Chicago', slug: 'chicago', img: 'https://images.unsplash.com/photo-1596250410216-1ac77dc208e3?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
+    { name: 'Miami', slug: 'miami', img: 'https://images.unsplash.com/photo-1597535973747-951442d5dbc7?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
   ]
 
   return (
@@ -17,7 +17,7 @@ export default function Cities(){
           <p className="text-gray-300 mb-6">
             Discover your one-stop travel shop: long-distance rides, airport transfers, and more.
           </p>
-          <Link href="/cities">
+          <Link href="">
             <button className="border border-yellow-400 text-yellow-400 px-6 py-3 rounded-lg font-semibold hover:bg-yellow-400 hover:text-black transition">
               All Cities
             </button>

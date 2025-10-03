@@ -6,7 +6,7 @@ export default function Page() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="/buildings-980x415.webp"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/buildings.jpg"
           alt="City to City Limo Service"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -48,7 +48,7 @@ export default function Page() {
         {/* Image */}
         <div>
           <img
-            src="/Chrysler-300-1200x675.jpg"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2024/07/banner3.png"
             alt="Luxury Travel"
             className="rounded-2xl shadow-lg w-full h-[350px] object-cover"
           />

@@ -6,7 +6,7 @@ export default function AirportLimousinePage() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="/pexels-pixabay-69121.jpg.webp"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/pexels-pixabay-69121.jpg"
           alt="Airport Limousine"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -26,7 +26,7 @@ export default function AirportLimousinePage() {
         {/* Left Image */}
         <div className="rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="/air.webp"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/air.jpg"
             alt="Luxury Airport Ride"
             className="w-full h-full object-cover"
           />

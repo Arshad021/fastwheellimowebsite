@@ -10,7 +10,7 @@ export default function Navbar(){
     <header className="bg-black text-white fixed w-full z-40 top-0">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-3">
-          <Image src="/logo.svg" alt="FastWheel Limo" width={160} height={40} priority />
+          <Image src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/fastwheellimo-logo.png" alt="FastWheel Limo" width={160} height={40} priority />
         </Link>
         <nav className="hidden md:flex items-center gap-6">
           <Link href="/">Home</Link>

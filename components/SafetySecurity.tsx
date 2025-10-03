@@ -23,7 +23,7 @@ export default function SafetySecurity(){
         {/* Right Side with Background Image */}
         <div
           className="aspect-video rounded-2xl bg-cover bg-center shadow-md"
-          style={{ backgroundImage: "url('/ferries.jpg')" }}
+          style={{ backgroundImage: "url('https://www.fastwheelslimo.com/wp-content/uploads/2024/07/Luxury-Airport-Transfer-Service-in-Miami-1.jpg')" }}
         />
       </div>
     </section>

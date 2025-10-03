@@ -4,7 +4,7 @@ import Image from 'next/image'
 export default function Hero(){
   return (
     <section className="relative w-full min-h-[560px] bg-black">
-      <Image src="/banner1.jpg" alt="Hero" fill className="object-cover opacity-60" />
+      <Image src="https://www.fastwheelslimo.com/wp-content/uploads/2024/07/banner3.png" alt="Hero" fill className="object-cover opacity-60" />
       <div className="absolute inset-0 flex items-center">
         <div className="max-w-7xl mx-auto px-4 text-white">
           <p className="uppercase tracking-widest text-yellow-400 font-semibold">Affordable & Reliable Chauffeur Service</p>

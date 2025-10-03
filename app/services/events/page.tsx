@@ -6,7 +6,7 @@ export default function Page() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1564836235918-8736b8d95f9c?q=80&w=1600"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/buildings.jpg"
           alt="Events Limousine"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -27,7 +27,7 @@ export default function Page() {
         {/* Left Image */}
         <div className="rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="https://images.unsplash.com/photo-1595435934249-5e88b53d6f8b?q=80&w=1200"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/womens-drinking.jpg"
             alt="Events Chauffeur Service"
             className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
           />
@@ -69,17 +69,17 @@ export default function Page() {
             {
               title: "Stretch Limousine",
               desc: "The ultimate luxury ride for weddings and VIP events.",
-              img: "https://images.unsplash.com/photo-1554252116-3f98254e4a2c?q=80&w=1200",
+              img: "https://www.fastwheelslimo.com/wp-content/uploads/2021/06/Lincoln-MKTw.jpg",
             },
             {
               title: "Party Bus",
               desc: "Perfect for groups heading to parties, concerts, or clubs.",
-              img: "https://images.unsplash.com/photo-1549921296-3a73fdfd91e5?q=80&w=1200",
+              img: "https://www.fastwheelslimo.com/wp-content/uploads/2021/10/Sprinter_Bus.jpg",
             },
             {
               title: "Luxury SUV",
               desc: "Spacious and elegant — great for red carpet arrivals.",
-              img: "https://images.unsplash.com/photo-1586278069931-3e7dd9e6c72d?q=80&w=1200",
+              img: "https://www.fastwheelslimo.com/wp-content/uploads/2021/06/GMC-Yuk.png",
             },
           ].map((car, i) => (
             <div

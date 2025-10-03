@@ -6,7 +6,7 @@ export default function Page() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1584467735815-f778f274e65d?q=80&w=1600"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/buildings.jpg"
           alt="Corporate Travel Limousine"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -27,7 +27,7 @@ export default function Page() {
         {/* Left Image */}
         <div className="rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="https://images.unsplash.com/photo-1524646432680-7e9c74d7faaa?q=80&w=1200"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2024/07/banner3.png"
             alt="Corporate Chauffeur Service"
             className="w-full h-full object-cover"
           />
@@ -69,7 +69,7 @@ export default function Page() {
           {/* Car 1 */}
           <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition">
             <img
-              src="/Chrysler-300-1200x675.jpg"
+              src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/8f5677_1cab5fd44e954c7f96f4a16e5c3776a9mv2.jpg"
               alt="Executive Sedan"
               className="w-full h-56 object-cover"
             />
@@ -90,7 +90,7 @@ export default function Page() {
           {/* Car 2 */}
           <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition">
             <img
-              src="https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?q=80&w=1200"
+              src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/Chev-Suburban.jpg"
               alt="Luxury SUV"
               className="w-full h-56 object-cover"
             />
@@ -111,7 +111,7 @@ export default function Page() {
           {/* Car 3 */}
           <div className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition">
             <img
-              src="https://images.unsplash.com/photo-1511919884226-fd3cad34687c?q=80&w=1200"
+              src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/GMC-Yuk.png"
               alt="Luxury Limousine"
               className="w-full h-56 object-cover"
             />

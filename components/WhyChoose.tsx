@@ -35,7 +35,7 @@ export default function WhyChoose(){
         {/* Right Side - Image */}
         <div
           className="aspect-square rounded-2xl bg-cover bg-center shadow-md"
-          style={{ backgroundImage: "url('/25e8973a-f359-41f5-a417-8649e89e4af6-980x735.webp')" }}
+          style={{ backgroundImage: "url('https://www.fastwheelslimo.com/wp-content/uploads/2024/07/banner3.png')" }}
         />
       </div>
     </section>

@@ -6,7 +6,7 @@ export default function Page() {
       {/* Hero Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?q=80&w=1600"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/buildings.jpg"
           alt="Point to Point Limo Service"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -46,7 +46,7 @@ export default function Page() {
         {/* Image */}
         <div>
           <img
-            src="https://images.unsplash.com/photo-1517142089942-ba376ce32a0b?q=80&w=1600"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2024/07/Luxury-Airport-Transfer-Service-in-Miami-1.jpg"
             alt="Point To Point Transfer"
             className="rounded-2xl shadow-lg w-full h-[350px] object-cover"
           />

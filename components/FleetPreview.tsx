@@ -1,9 +1,9 @@
 import FleetCard from './FleetCard'
 export default function FleetPreview(){
   const fleet = [
-    { title: 'Executive Sedan Class', desc: 'Comfortable executive sedans for business travel.', image: '/car1.webp', pax:3, luggage:3 },
-    { title: 'First Class Sedan', desc: 'Luxury sedans with Wi-Fi on request.', image: '/car2.webp', pax:3, luggage:3 },
-    { title: 'SUV Executive', desc: 'Spacious SUVs for groups.', image: '/car3.webp', pax:6, luggage:4 },
+    { title: 'Executive Sedan Class', desc: 'Comfortable executive sedans for business travel.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/8f5677_1cab5fd44e954c7f96f4a16e5c3776a9mv2.jpg', pax:3, luggage:3 },
+    { title: 'First Class Sedan', desc: 'Luxury sedans with Wi-Fi on request.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/8f5677_3e98dfd855674fc8a76a0770c5c502bfmv2.png', pax:3, luggage:3 },
+    { title: 'SUV Executive', desc: 'Spacious SUVs for groups.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/Chev-Suburban.jpg', pax:6, luggage:4 },
   ]
   return (
     <section className="py-16">

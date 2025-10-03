@@ -6,7 +6,7 @@ export default function Page() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="/pexels-chan-walrus-941864-980x551.jpg.webp"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/pexels-chan-walrus-941864.jpg"
           alt="Bachelor Parties Limousine"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -27,7 +27,7 @@ export default function Page() {
         {/* Left Image */}
         <div className="rounded-2xl overflow-hidden shadow-lg">
           <img
-            src="/party-limo.jpg"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/party-limo.jpg"
             alt="Party Limo Experience"
             className="w-full h-full object-cover"
           />

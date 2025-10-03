@@ -1,13 +1,15 @@
 import FleetCard from '../../components/FleetCard'
 
 const fleet = [
-  { title: 'Executive Sedan', desc: 'Comfortable executive sedans.', image: '/car1.webp', pax: 3, luggage: 3 },
-  { title: 'First Class Sedan', desc: 'Premium sedans, leather interiors.', image: '/car1.webp', pax: 3, luggage: 3 },
-  { title: 'Executive SUV', desc: 'Spacious SUVs for groups.', image: '/car2.webp', pax: 6, luggage: 4 },
-  { title: 'Premium SUV', desc: 'Black-on-black luxury SUVs.', image: '/car3.webp', pax: 6, luggage: 5 },
-  { title: 'Business Van', desc: 'Comfortable van for teams.', image: '/car1.webp', pax: 10, luggage: 10 },
-  { title: 'Stretch Limousine', desc: 'Perfect for weddings & events.', image: '/car2.webp', pax: 8, luggage: 6 },
-  { title: 'Party Bus', desc: 'Celebrate with onboard lighting & sound.', image: '/car3.webp', pax: 14, luggage: 8 },
+  { title: 'Lincoln MKT', desc: 'Comfortable executive sedans.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/8f5677_1cab5fd44e954c7f96f4a16e5c3776a9mv2.jpg', pax: 3, luggage: 3 },
+  { title: 'Chrysler 300 Executive', desc: 'Premium sedans, leather interiors.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/8f5677_3e98dfd855674fc8a76a0770c5c502bfmv2.png', pax: 3, luggage: 3 },
+  { title: 'Chevrolet Suburban', desc: 'Spacious SUVs for groups.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/Chev-Suburban.jpg', pax: 6, luggage: 4 },
+  { title: 'GMC Yukon', desc: 'Black-on-black luxury SUVs.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/GMC-Yuk.png', pax: 6, luggage: 5 },
+  { title: 'Mercedes Sprinter', desc: 'Comfortable van for teams.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/10/Sprinter_Bus.jpg', pax: 10, luggage: 10 },
+  { title: 'Ford Transit', desc: 'Celebrate with onboard lighting & sound.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/Ford-Transit.jpg', pax: 14, luggage: 8 },
+  { title: 'Chrysler 300', desc: 'Perfect for weddings & events.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/Lincoln-MKTw.jpg', pax: 8, luggage: 6 },
+  { title: 'Lincoln MKT', desc: 'Perfect for weddings & events.', image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/Chrysler-300.jpg', pax:8, luggage: 6 },
+ 
 ]
 
 export default function Fleets() {

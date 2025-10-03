@@ -7,37 +7,37 @@ export default function ServicesPreview() {
       title: 'Airport Limousine',
       slug: 'airport-limousine',
       description: 'Reliable and comfortable rides to and from the airport.',
-      image: '/pexels-pixabay-69121-980x638.jpg',
+      image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/air.jpg',
     },
     {
       title: 'Wedding Limousine',
       slug: 'wedding-limousine',
       description: 'Make your special day unforgettable with our luxury wedding limousines.',
-      image: '/wedd.jpg',
+      image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/wedding-limo.jpg',
     },
     {
       title: 'Night Out Ride Limousine',
       slug: 'night-out-ride-limousine',
       description: 'Enjoy your night out in style and safety with our premium rides.',
-      image: '/pexels-chad-kirchoff-952437.jpg',
+      image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/pexels-chad-kirchoff-952437.jpg',
     },
     {
       title: 'Casino Limousine',
       slug: 'casino-limousine',
       description: 'Arrive at the casino in style and enjoy a VIP experience all night long.',
-      image: '/pexels-drew-rae-1871508-1-768x483.jpg',
+      image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/pexels-drew-rae-1871508-1.jpg',
     },
     {
       title: 'Prom Limousine',
       slug: 'prom-limousine',
       description: 'Turn prom night into a luxury event with our elegant limousine services.',
-      image: '/prom-1200x675.jpg',
+      image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/prom.jpg'
     },
     {
       title: 'Bachelor Parties Limousine',
       slug: 'bachelor-parties-limousine',
       description: 'Celebrate bachelor parties with a safe, stylish, and fun limousine ride.',
-      image: '/pexels-mauricio-mascaro-801863-768x512.jpg',
+      image: 'https://www.fastwheelslimo.com/wp-content/uploads/2021/06/pexels-mauricio-mascaro-801863.jpg',
     },
   ]
 

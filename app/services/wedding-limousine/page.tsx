@@ -4,7 +4,7 @@ export default function Page() {
       {/* Banner */}
       <div className="relative bg-black text-white rounded-2xl shadow-lg mb-16 h-[300px] flex items-center justify-center text-center overflow-hidden">
         <img
-          src="/bernard-tuck-5BzwZ4ULocA-unsplash-768x512.jpg"
+          src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/bernard-tuck-5BzwZ4ULocA-unsplash.jpg"
           alt="Wedding Limousine Service"
           className="absolute inset-0 w-full h-full object-cover rounded-2xl"
         />
@@ -48,7 +48,7 @@ export default function Page() {
         {/* Image */}
         <div>
           <img
-            src="/wedding-limo-1200x1186.jpg"
+            src="https://www.fastwheelslimo.com/wp-content/uploads/2021/06/wedding-limo.jpg"
             alt="Wedding Limousine"
             className="rounded-2xl shadow-lg w-full h-[350px] object-cover"
           />
