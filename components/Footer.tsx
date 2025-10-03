@@ -25,9 +25,9 @@ export default function Footer(){
         </div>
         <div>
           <h4 className="text-white font-semibold">Get in Touch</h4>
-          <p className="text-gray-400 mt-3"><a href="tel:+18577779500">(857) 777 9500</a></p>
-          <p className="text-gray-400"><a href="mailto:hello@fastwheellimo.com">hello@fastwheellimo.com</a></p>
-          <p className="text-gray-400 mt-2"><a href="https://wa.me/18577779500">WhatsApp us</a></p>
+          <p className="text-gray-400 mt-3"><a href="tel:+774-434-2262">774-434-2262</a></p>
+          <p className="text-gray-400"><a href="mailto:hello@fastwheellimo.com">Support@fastwheelslimo.com</a></p>
+          <p className="text-gray-400 mt-2"><a href="tel:7744342262">WhatsApp us</a></p>
         </div>
       </div>
       <div className="text-center text-gray-500 mt-8 py-6 border-t border-white/10">© {new Date().getFullYear()} FastWheel Limo · Terms & Conditions · Privacy Policy</div>

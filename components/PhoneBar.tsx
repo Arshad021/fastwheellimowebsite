@@ -4,9 +4,9 @@ export default function PhoneBar(){
       <div className="max-w-7xl mx-auto px-4 flex flex-wrap items-center justify-between gap-3">
         <div className="font-semibold">Your Global Chauffeur Service</div>
         <div className="flex items-center gap-6">
-          <a href="tel:+18577779500" className="underline">(857) 777 9500</a>
-          <a href="mailto:hello@fastwheellimo.com" className="underline">hello@fastwheellimo.com</a>
-          <a href="https://wa.me/18577779500" className="underline">WhatsApp us</a>
+          <a href="tel:+774-434-2262" className="underline">774-434-2262</a>
+          <a href="mailto:hello@fastwheellimo.com" className="underline">Support@fastwheelslimo.com</a>
+          <a href="tel:7744342262" className="underline">WhatsApp us</a>
         </div>
       </div>
     </div>
